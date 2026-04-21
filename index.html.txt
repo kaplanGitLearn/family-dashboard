@@ -82,7 +82,7 @@
 
 <div class="container" id="monthlyView">
   <div class="left">
-    <iframe src="https://calendar.google.com/calendar/embed?mode=MONTH"></iframe>
+    <iframe src="https://calendar.google.com/calendar/embed?src=kaplan.t.b%40gmail.com&ctz=Asia%2FJerusalem"></iframe>
   </div>
   <div class="right">
     <iframe src="https://tasks.google.com/embed/list/"></iframe>
