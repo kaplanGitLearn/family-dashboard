@@ -2,7 +2,7 @@
 <html>
 <body>
 <iframe 
-  src="https://calendar.google.com/calendar/embed?src=en.usa%23holiday%40group.v.calendar.google.com&ctz=Asia/Jerusalem"
+  src="https://calendar.google.com/calendar/embed?src=kaplan.t.b%40gmail.com&ctz=Asia%2FJerusalem"
   style="width:100%; height:100vh; border:0;">
 </iframe>
 </body>
